@@ -15,7 +15,10 @@ font-family:Lobster;
 text-transform:capitalize;
 }
 
-
+#body{
+    background-image: url(www.formasformacion.com/wp-content/uploads/2014/04/Recepcionista-Hotel.jpg") no-repeat center center fixed;
+    padding: 150px;
+}
 
 #titulo{color: coral;
 font-size: xx-large;
@@ -25,3 +28,6 @@ text-decoration: underline;}
 #temas{color:blueviolet;
 underground-color:white }
 
+#gif{
+    image-align:center
+}
