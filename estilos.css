@@ -1,33 +1,48 @@
 @import url('https://fonts.googleapis.com/css?family=Baloo+Bhaijaan');
 @import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url(https://fonts.googleapis.com/css?family=Anton);
 
-#titulohotel{color:orangered;
- text-decoration:dashed;
- font-family:Baloo Bhaijaan  ;
- text-align:center;
- font-size:-webkit-xxx-large;
- text-decoration:overline
+#titulohotel{
+    color:orangered;
+    text-decoration:dashed;
+    font-family:Baloo Bhaijaan  ;
+    text-align:center;
+    font-size:-webkit-xxx-large;
+    text-decoration:overline;
  }
 
-#since{color:brown;
-text-align:center;
-font-family:Lobster;
-text-transform:capitalize;
+#since{
+    color:brown;
+    text-align:center;
+    font-family:Lobster;
+    text-transform:capitalize;
 }
 
+#botones{
+    font-family:fantasy;
+}
+
+#oferta{
+    color:red;
+    text-align:center;
+    font-family:cursive;
+    text-transform:capitalize;
+}
 #body{
     background-image: url(www.formasformacion.com/wp-content/uploads/2014/04/Recepcionista-Hotel.jpg") no-repeat center center fixed;
     padding: 150px;
 }
 
-#titulo{color: coral;
-font-size: xx-large;
-text-align: center;
-text-decoration: underline;}
+#titulo{
+    color: coral;
+    font-size: xx-large;
+    text-align: center;
+    text-decoration: underline;}
 
-#temas{color:blueviolet;
-underground-color:white }
+#temas{
+    color:blueviolet;
+    underground-color:white }
 
 #gif{
-    image-align:center
-}
+    image-align:center;
+   }
