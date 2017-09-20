@@ -19,7 +19,7 @@
 }
 
 #botones{
-    font-family:fantasy;
+    font-family:inherit;
 }
 
 #oferta{
@@ -27,10 +27,6 @@
     text-align:center;
     font-family:cursive;
     text-transform:capitalize;
-}
-#body{
-    background-image: url(www.formasformacion.com/wp-content/uploads/2014/04/Recepcionista-Hotel.jpg") no-repeat center center fixed;
-    padding: 150px;
 }
 
 #titulo{
@@ -46,3 +42,21 @@
 #gif{
     image-align:center;
    }
+
+.contenedor_ppal{
+    background: url(https://i.onthebeach.co.uk/v1/hotel_images/0a4e1336-7567-4c46-ba35-921fc926666b/contain/1000/600/high/1.0/beatriz-playa-spa) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size:cover;
+    background-size: cover;
+ 
+}
+
+
+p{
+  display:none;  
+}
+
+ul{
+    display:none;
+}
